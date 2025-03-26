@@ -1,8 +1,8 @@
 defmodule Tiktoken.MixProject do
   use Mix.Project
 
-  @version "0.4.1"
-  @url "https://github.com/connorjacobsen/tiktoken-elixir"
+  @version "0.4.2"
+  @url "https://github.com/v7labs/tiktoken-elixir"
 
   def project do
     [
